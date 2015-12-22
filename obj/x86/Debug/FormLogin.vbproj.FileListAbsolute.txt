@@ -1,0 +1,78 @@
+G:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+G:\5.Login\FormLogin\FormLogin\bin\Debug\Karyawan.mdf
+G:\5.Login\FormLogin\FormLogin\bin\Debug\Karyawan_log.ldf
+G:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+G:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+G:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.xml
+G:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.vbproj.GenerateResource.Cache
+G:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.exe
+G:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.xml
+G:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.pdb
+G:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.Home.resources
+G:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.exe
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.xml
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.pdb
+D:\5.Login\FormLogin\FormLogin\bin\Debug\Karyawan.mdf
+D:\5.Login\FormLogin\FormLogin\bin\Debug\Karyawan_log.ldf
+D:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+D:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+D:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.xml
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.vbproj.GenerateResource.Cache
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormInput.resources
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormUser.resources
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormAbsen.resources
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormGaji.resources
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormData.resources
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormDataGaji.resources
+D:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.exe
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.xml
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\FormLogin.pdb
+J:\5.Login\FormLogin\FormLogin\bin\Debug\Karyawan.mdf
+J:\5.Login\FormLogin\FormLogin\bin\Debug\Karyawan_log.ldf
+J:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+J:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+J:\5.Login\FormLogin\FormLogin\bin\Debug\FormLogin.xml
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.Form1.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormAbsen.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormData.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormDataGaji.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormGaji.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormInput.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.FormUser.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\WindowsApplication1.Form3.resources
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\RdlCompile.cache
+J:\5.Login\FormLogin\FormLogin\obj\x86\Debug\RdlCompile.compiled
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\FormLogin.exe
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\FormLogin.xml
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\FormLogin.pdb
+J:\5.Login\From Login\FormLogin\bin\Debug\Karyawan.mdf
+J:\5.Login\From Login\FormLogin\bin\Debug\Karyawan_log.ldf
+J:\5.Login\From Login\FormLogin\bin\Debug\FormLogin.exe
+J:\5.Login\From Login\FormLogin\bin\Debug\FormLogin.pdb
+J:\5.Login\From Login\FormLogin\bin\Debug\FormLogin.xml
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.Form1.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.Form3.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.FormAbsen.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.FormData.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.FormDataGaji.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.FormGaji.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.FormInput.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.FormUser.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\RdlCompile.cache
+J:\5.Login\From Login\FormLogin\obj\x86\Debug\RdlCompile.compiled
